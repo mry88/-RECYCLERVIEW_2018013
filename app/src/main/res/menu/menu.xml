@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_saham"
+        android:icon="@drawable/ic_baseline_airline_stops_24"
+        android:title="Saham"/>
+    <item
+        android:id="@+id/nav_bisnis"
+        android:icon="@drawable/ic_baseline_business_center_24"
+        android:title="Bisnis"/>
+    <item
+        android:id="@+id/nav_money"
+        android:icon="@drawable/ic_baseline_monitor_heart_24"
+        android:title="Kurs"/>
+</menu>

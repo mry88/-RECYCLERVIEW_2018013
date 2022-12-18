@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">BeritaBisnis</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="deskription_menu">deskripsi</string>
+
+    <string name="Headline">Harga Emas Antam Hari Ini Naik Rp 9.000 ke Level Rp 945.000 Per Gram, Sabtu (22/10)</string>
+        <string name="emas_berita">arga emas batangan bersertifikat Antam keluaran Logam Mulia PT Aneka Tambang Tbk (ANTM) naik pada Sabtu (22/10).
+
+Mengutip situs Logam Mulia, harga pecahan satu gram emas Antam berada di Rp 945.000. Harga emas Antam naik Rp 9.000 jika dibandingkan dengan harga yang dicetak pada Jumat (21/10) yang berada di level Rp 936.000 per gram.</string>
+
+    <string name="Headline2">Saham BMRI Mencapai Rekor Tertinggi Rp 10.350 Kapitalisasi Tembus Rp 462 triliun</string>
+    <string name="berita2">Anda Investor PT Bank Mandiri Tbk (BMRI)? Bersiaplah menjadi miliarder, sebab harga0 ini harga saham Bank Mandiri mencapai harga tertinggi dalam sejarah yakni Rp 10.350 per saham. (22/10)</string>
+
+    <string name="Headline3">Hormel Dikabarkan akan Mencaplok Saham GarudaFood (GOOD) Milik CVC Capital Partners</string>
+    <string name="berita3">Perusahaan asal AS Hormel Foods Corp disebut tengah melakukan pembicaraan lanjutan untuk membeli saham minoritas di pembuat makanan ringan Indonesia PT GarudaFood Putra Putri Jaya (GOOD) dari perusahaan ekuitas swasta CVC Capital Partners.</string>
+
+    <string name="Headline_bis1">Bumi Serpong Damai (BSDE) Mengantongi Prapenjualan Rp 6,7 Triliun Hingga Kuartal III</string>
+    <string name="berita_bis1"> PT Bumi Serpong Damai Tbk (BSDE) membukukan prapenjualan atawa marketing sales sebesar Rp 6,7 triliun hingga kuartal ketiga 2022. Jumlah ini meningkat 9% dibandingkan periode yang sama tahun lalu sebesar Rp 6,1 triliun..</string>
+
+    <string name="Headline_bis2">Ambisi Millennium Pharmacon (SDPC) Jadi Perusahaan Distributor Produk Farmasi Nomor 1</string>
+    <string name="berita_bis2">Memasuki usia yang ke-70 tahun, distributor produk farmasi, PT Millennium Pharmacon International Tbk (SDPC) atau PT MPI punya misi untuk terus meningkatkan inovasi demi menjadi perusahaan yang efisien dan efektif se-Indonesia.</string>
+
+    <string name="Headline_bis3">Usung Model Bisnis Berbeda, IPO BELI Dinilai Punya Prospek Jangka Panjang</string>
+    <string name="berita_bis3">Rencana e-commerce asli dalam negeri Blibli untuk melakukan penawaran umum perdana saham atau initial public offering (IPO) akan menggairahkan pasar modal dalam negeri. Blibli bersinergi dengan entitas anaknya, online travel agent (OTA) tiket.com dan Ranch Market untuk menghadirkan layanan omnichannel bernilai tambah bagi pelanggan</string>
+
+    <string name="Headline_k1">Melemah 9,6% Sejak Awal Tahun, Ini Prediksi Rupiah di Akhir 2022</string>
+    <string name="berita_k1">Tekanan pada nilai tukar rupiah makin besar di kuartal terakhir tahun ini. Jumat (21/10), kurs rupiah spot melemah 0,39% ke Rp 15.632 per dolar Amerika Serikat (AS).</string>
+
+    <string name="Headline_k2">Rupiah Melemah ke Level Rp 15.000 Per Dolar AS, Simak Prediksinya di Akhir Tahun</string>
+    <string name="berita_k2">Penguatan dolar Amerika Serikat (AS) semakin melemahkan posisi rupiah. Pekan ini rupiah sudah menembus level Rp 15.000-an per dolar AS. Pada penutupan perdagangan Jumat (21/10), rupiah spot melemah 0,39% ke Rp 15.427 per dolar AS. Dalam sepekan, rupiah spot melemah 1,32%..</string>
+
+    <string name="Headline_k3">Harga Minyak Turut Terangkat Pelemahan Kurs Dolar AS</string>
+    <string name="berita_k3">Harga minyak naik pada hari Jumat (21/10). Harapan permintaan China yang lebih kuat dan pelemahan dolar Amerika Serikat (AS) melebihi kekhawatiran tentang penurunan ekonomi global dan dampak kenaikan suku bunga pada penggunaan bahan bakar.</string>
+
+    <string name="ingredients">ingredients</string>
+        <string name="Resep">resep</string>
+        <string name="price">price</string>
+        <string name="Harga_Cenil">harga</string>
+        <string name="saran_menu">saran</string>
+
+</resources>
